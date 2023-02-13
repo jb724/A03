@@ -39,14 +39,25 @@ _How to use WebStorm_
 _Glossary_
 
 **Branch:** A separate line of development within a repository. It allows you to work on different versions of your code simultaneously, without affecting the main codebase.
+
 **Clone:** The process of copying a remote repository to your local machine. It allows you to work with a repository on your own computer and keep your changes synchronized with the remote repository.
+
 **Commit:** A saved snapshot of your code changes. It serves as a record of the changes you make to your code, and allows you to revert to a previous version if necessary.
+
 **Fetch:** The process of downloading the latest changes from a remote repository to your local repository. It allows you to stay up-to-date with the latest changes made by other contributors.
+
 **Git:** A distributed version control system that allows you to manage and track changes to your code. It provides a powerful set of tools for collaboration, version control, and code management.
+
 **Github:** A web-based platform that provides hosting for Git repositories. It allows you to store and manage your code, collaborate with others, and discover new projects.
+
 **Merge:** The process of integrating changes from one branch into another branch. It allows you to combine the work of multiple developers into a single codebase.
+
 **Merge Conflict:** This occurs when two or more branches have made conflicting changes to the same lines of code. They must be resolved before the code can be merged.
+
 **Push:** The process of uploading your local changes to a remote repository. It allows you to share your code with others and collaborate on projects.
+
 **Pull:** The process of downloading the latest changes from a remote repository to your local repository. It allows you to stay up-to-date with the latest changes made by other contributors.
+
 **Remote:** A reference to a remote repository. It allows you to work with code stored on another computer, and keep your changes synchronized with the remote repository.
+
 **Repository:** A collection of files and directories that are tracked and managed by Git. It contains all of the code and history for a project.
